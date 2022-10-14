@@ -28,14 +28,14 @@ function Slider1() {
                   >
                     We Create Ideas
                   </h6>
-                  <h1
+                  <h2
                     data-wow-duration='1.2s'
                     data-wow-delay='1s'
                     className='wow fadeInUp '
                   >
                     Build Stunning Website With{' '}
                     <span className='text-primary'>Aftertechs</span>
-                  </h1>
+                  </h2>
                   <p
                     data-wow-duration='1.4s'
                     data-wow-delay='1.5s'

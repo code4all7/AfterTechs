@@ -33,8 +33,8 @@ function Slider1() {
                     data-wow-delay='1s'
                     className='wow fadeInUp '
                   >
-                    Build Stunning Website With{' '}
-                    <span className='text-primary'>Aftertechs</span>
+                    Build Stunning Website With
+                    <span className='text-primary'> Aftertechs</span>
                   </h2>
                   <p
                     data-wow-duration='1.4s'

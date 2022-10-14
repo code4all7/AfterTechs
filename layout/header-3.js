@@ -71,7 +71,8 @@ function Header3() {
                 <div className='logo-header'>
                   <Link href='/'>
                     <a>
-                      <img src='images/logo.png' alt='' />
+                      {/* <img src='images/logo.png' alt='' /> */}
+                      <h4>AfterTechs</h4>
                     </a>
                   </Link>
                 </div>
